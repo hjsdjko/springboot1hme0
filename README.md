@@ -56,7 +56,6 @@
 
 ![图片描述](https://github.com/hjsdjko/hjsdjko/blob/main/weixin.png)
 
-1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
 ![weixingongzhonghao](https://github.com/hjsdjko/hjsdjko/blob/main/weixingongzhonghao.jpg)
 
